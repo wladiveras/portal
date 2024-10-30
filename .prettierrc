@@ -3,5 +3,11 @@
   "useTabs": false,
   "trailingComma": "none",
   "semi": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "eslintIntegration": true,
+  "printWidth": 80,
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "endOfLine": "auto",
+  "singleAttributePerLine": true
 }
